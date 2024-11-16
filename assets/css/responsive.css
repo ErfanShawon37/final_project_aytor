@@ -1,0 +1,264 @@
+@media (min-width:320px) and (max-width:990px){
+    #banner .slides{
+        width: 100%;
+        height: 300px;
+        background-size:cover;
+        background-position: center;
+    }
+
+    #banner .slides .banner-cnt h2{
+       font-size: 30px;
+    }
+    #banner .slides .banner-cnt h5{
+        font-size: 12px;
+    }
+    #banner .slides .banner-cnt p{
+        font-size: 10px;
+    }
+    #banner .slides .banner-cnt a{
+        height: 40px;
+        line-height: 40px;
+        width: 120px;
+        font-size: 16px;
+    }
+    #atorBanner .slides{
+        height: 300px;
+        width: 100%;
+        background-size:cover;
+        background-position:center;
+    }
+    #atorBanner .slides h2{
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    #atorBanner .slides p{
+        font-size: 12px;
+    }
+    #atorBanner .slides a{
+	font-size: 12px;
+	line-height: 30px;
+	width: 126px;
+	height: 40px;
+	display: block;
+    }
+    #deals .lotions {
+     margin-top: 24px;
+    }
+    #banner .bannerDots{
+        display: none !important;
+    }
+    #realVideo .video img{
+        width: 100%;
+    }
+    #realVideo .video .icon{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 40%;
+       width:70px ;
+       height: 70px;
+       line-height: 70px;
+       background-color: rgba(255, 255, 255, 0.3);
+       border-radius: 50%;
+       text-align: center;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    #realVideo .video .icon i{
+        font-size: 25px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 100%;
+        background-color: #ffff;
+        text-align: center;
+        color: var(--2nd-primary-color);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    } 
+    #deals .cream .overwrite h2{
+        font-size: 26px;
+    }
+    #deals .cream .overwrite h5{
+        font-size: 14px;
+    }
+    #deals .cream .overwrite p{
+        font-size: 12px;
+    }
+    #deals .cream .overwrite h4{
+        display: none;
+    }
+    #deals .cream .overwrite a{
+    font-size: 12px;
+	line-height: 40px;
+	width: 126px;
+	height: 40px;
+	display: block;
+    }
+    #deals .lotions .overmethod h2{
+        font-size: 26px;
+    }
+    #deals .lotions .overmethod h5{
+        font-size: 14px;
+    }
+    #deals .lotions .overmethod p{
+        font-size: 12px;
+    }
+    #deals .lotions .overmethod h4{
+        display: none;
+    }
+    #deals .lotions .overmethod a{
+    font-size: 12px;
+	line-height: 40px;
+	width: 126px;
+	height: 40px;
+	display: block;
+    }
+    .prefooter .prefooterwrapper .preFooterCard {
+        border-right:none;
+    }
+    #middlePart .mainFooter .icons{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    #deals .cream img{
+        width: 100%;
+        max-width: 350px;
+        height: 350px;
+    }
+    #deals .lotions img{
+        width: 100%;
+        max-width: 350px;
+        height: 350px;
+        margin-top: -23px;
+    }
+    #learnShop .text{
+        margin-top: 20px;
+    }
+    #learnShop .text h4{
+        font-size: 18px;
+    }
+    #learnShop .pictures img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+    }
+    #learnShop .text h5{
+        
+        display: none !important;
+    }
+    #learnShop .text a{
+        font-size: 12px;
+        line-height: 30px;
+        width: 126px;
+        height: 30px;
+        display: block; 
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    #learnShop .text p{
+        font-size: 12px;
+        margin-top: 0;
+    }
+    #countUptimer .counterDown img{
+        left: 0%;
+        transform: translateX(0%);
+    }
+    #countUptimer .counterDown .counter{
+        font-size: 30px;
+        margin-top: 39px;
+    }
+    #countUptimer .counterDown{
+        left: -25%;
+        transform: translateX(25%);
+    }
+    #realVideo .video img{
+        height: 300px;
+    }
+    #lastPart .context form{
+        margin-bottom: 20px;
+    }
+    #instagram .dealDots{
+        left: 50%;
+        transform: translateX(-50%);
+       
+    }
+    #instagram .heading h4{
+        margin-top: 19px;
+    }
+    #productArea .productCtn .dropdown .btn-secondary{
+        width: 250px;
+    }
+    #productArea .productCtn .drop h5{
+        margin-right: 20px;
+        font-size: 16px;
+    }
+    #productArea .productCtn .down h5{
+        font-size: 14px;
+    }
+    #productArea .productCtn {
+        margin-top: 19px;
+    }
+    #productArea .productCtn .counterAdd button{
+        height: 30px;
+        width: 30px;
+        font-size: 18px;
+    }
+    #productArea .productCtn .counterAdd input{
+        height: 30px;
+        width: 30px;
+    }
+    #productArea .productCtn .quentity .counterAdd a{
+        height: 30px;
+        line-height: 30px;
+        width: 180px;
+        font-size: 14px;
+    }
+    #productArea .productCtn .quentity .addpart .iconify a{
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+}
+
+@media (min-width:320px) and (max-width:479px){
+    #cart .cartpart .firstBnr img{
+     width: 100%;
+     max-width: 400px;
+    }
+    #cart .cartpart .secondBnr img{
+        width: 100%;
+        max-width: 400px;
+    }
+    .navbarBottom{
+        width: 100%;
+        max-width: 400px;
+       }
+       #learnShop .pictures img{
+        top:-50%;
+        transform: translateY(50%);
+       }
+       #productDetails{
+        margin-bottom: 32px;
+        margin-top: 53px;
+    }
+}
+@media (min-width:480px) and (max-width:767px){
+    #cart .cartpart .firstBnr img{
+        width: 100%;
+        max-width: 700px;
+       }
+       #cart .cartpart .secondBnr img{
+           width: 100%;
+           max-width: 700px;
+       }
+       .navbarBottom{
+        width: 100%;
+        max-width: 700px;
+       }
+}
